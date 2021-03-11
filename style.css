@@ -1,3 +1,21 @@
+
+body{
+    background-color: #c01424;
+}
+.images-container {
+    max-width: 750px;
+    position: relative;
+    margin: auto; 
+}
+
+.studen-container{
+    max-width: -50px;
+    position: relative;
+    margin-left: -170px;
+    margin-top: -154px;
+
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -34,4 +52,5 @@ main{
 .pic img{
     max-width: 100%;
 }
+
 
