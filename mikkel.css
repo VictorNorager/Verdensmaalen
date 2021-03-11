@@ -1,0 +1,17 @@
+body{
+    background-color: #eab71d;
+}
+.images-container {
+    max-width: 750px;
+    position: relative;
+    margin: auto; 
+}
+
+.studen-container{
+    max-width: -50px;
+    position: relative;
+    margin-left: -170px;
+    margin-top: -154px;
+    color: #fff;
+
+}
