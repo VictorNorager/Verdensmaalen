@@ -1,3 +1,4 @@
+
 body{
     background-color: #c01424;
 }
@@ -14,3 +15,42 @@ body{
     margin-top: -154px;
 
 }
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #fff;
+}
+main{
+    max-width: 1300px;
+    margin: 0 auto;
+    position: 0px;
+}
+
+
+
+.mid-sec{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.pic{
+    width: 235px;
+    height: 235px;
+    border-radius: 15%;
+    margin: 25px;
+    overflow: hidden;
+    border: 1px solid black;
+    margin-top: 50px;
+    box-shadow:5px 5px 8px rgba(0, 0, 0, 0.7);  ;
+}
+
+.pic img{
+    max-width: 100%;
+}
+
+
