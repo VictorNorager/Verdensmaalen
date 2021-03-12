@@ -15,3 +15,10 @@ body{
     color: #fff;
 
 }
+footer{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    background-color: darkblue;
+    padding: 50px;
+}

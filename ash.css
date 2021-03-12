@@ -13,5 +13,11 @@ body{
     margin-left: -170px;
     margin-top: -154px;
     color: #fff;
-
+}
+footer{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    padding: 50px;
 }
