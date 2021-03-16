@@ -23,10 +23,33 @@ footer{
     padding: 50px;
 }
 footer{
-    color: white;
+    color: black;
     display: flex;
     justify-content: space-between;
-    background-color: grey;
+    background-color: white;
     padding: 50px;
+
 }
 
+address ul,address h4 {
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    columns: white;
+    font-style: normal;
+    font-weight: 400;
+}
+address h4{
+    font-size: 2rem;
+
+}
+address ul{
+    padding-left: 1.2rem;
+}
+
+.main-nav-2{
+    list-style-type: none
+}
+.main-nav-2 li a:hover{
+    color: black;
+}
