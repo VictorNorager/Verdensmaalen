@@ -5,6 +5,7 @@ body{
     max-width: 750px;
     position: relative;
     margin: auto; 
+    margin-top: 35px;
 }
 
 .studen-container{
@@ -13,5 +14,4 @@ body{
     margin-left: -170px;
     margin-top: -154px;
     color: #fff;
-
 }

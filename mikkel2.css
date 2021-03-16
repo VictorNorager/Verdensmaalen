@@ -5,6 +5,7 @@ body{
     max-width: 750px;
     position: relative;
     margin: auto; 
+    margin-top: 35px;
 }
 
 .studen-container{

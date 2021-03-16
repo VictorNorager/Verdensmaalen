@@ -5,6 +5,7 @@ body{
     max-width: 750px;
     position: relative;
     margin: auto; 
+    margin-top: 35px;
     
 }
 
@@ -15,9 +16,3 @@ body{
     margin-top: -154px;
     color: #fff;
 }
-
-/* billed str.
-
-studen-150px
-images-850px*/
-
